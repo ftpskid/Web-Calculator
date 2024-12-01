@@ -3,7 +3,6 @@
 A sleek **iPhone-style web calculator** built using **HTML**, **CSS**, and **JavaScript** with smooth animations and interactive UI.
 
 ## Features
-- Tada effect on `=` button click.
 - Responsive design for mobile and desktop.
 - Error handling and dynamic result display.
 - Smooth and rounded buttons for a modern look.
